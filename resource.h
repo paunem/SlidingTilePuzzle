@@ -1,0 +1,16 @@
+#define IDB_1  1001
+#define IDB_2  1002
+#define IDB_3  1003
+#define IDB_4  1004
+#define IDB_5  1005
+#define IDB_6  1006
+#define IDB_7  1007
+#define IDB_8  1008
+#define IDB_9  1009
+#define IDB_10  1010
+#define IDB_11  1011
+#define IDB_12  1012
+#define IDB_13  1013
+#define IDB_14  1014
+#define IDB_15  1015
+#define IDB_16  1016
